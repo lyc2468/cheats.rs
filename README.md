@@ -1,8 +1,8 @@
 
 
-# ![Logo](/static/logo.png) Rust Language Cheat Sheet
+# ![Logo](/static/logo.png) Rust语言备忘小册
 
-[![Read Online](/gfx/button_read-online2.png)](https://cheats.rs)
+[![Online](/gfx/button_read-online2.png)](https://cheats.rs)
 [![PDF](/gfx/button_cached-pdf2.png)](https://s3.eu-central-1.amazonaws.com/cheats.rs/rust_cheat_sheet.pdf)
 
 **A single-page Rust resource for people who like high information density.**

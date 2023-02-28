@@ -7,7 +7,7 @@ insert_anchor_links = "right"
 
 
 <img id="logo" class="hide_on_small" src="logo.png" alt="Ferris holding a cheat sheet."></img>
-<pagetitle>Rust Language Cheat Sheet</pagetitle>
+<pagetitle>Rust语言小册</pagetitle>
 <subtitle><span id="subtitle" onclick="advance_subtitle()">{{ date() }}</span></subtitle>
 
 
@@ -78,7 +78,7 @@ Contains clickable links to
 <noprint>
 <toc><column>
 
-**Language Constructs**
+**语言结构**
 * [Data Structures](#data-structures)
 * [References & Pointers](#references-pointers)
 * [Functions & Behavior](#functions-behavior)
